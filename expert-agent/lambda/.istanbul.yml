@@ -1,0 +1,6 @@
+instrumentation:
+    root: '.'
+    include-all-sources: true
+reporting:
+    print: both
+    dir: ./coverage
